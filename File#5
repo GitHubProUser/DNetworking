@@ -1,0 +1,14 @@
+Wireless networking
+To create your wireless network, you can choose between four types of deployment. Each deployment has attributes that will work better for different solutions.
+
+Cisco Mobility Express
+Mobility Express is a simple, high-performance wireless solution for small or medium-sized organizations. It has the full complement of advanced Cisco features, which are preconfigured with Cisco best practices. The defaults allow for a quick and effortless Wi-Fi deployment that can be operational in minutes. It's perfect for small businesses' basic networking.
+
+Centralized deployment
+The most common type of wireless network system, centralized deployments are traditionally used in campuses where buildings and networks are in close proximity. This deployment consolidates the wireless network, which makes upgrades easier and facilitates advanced wireless functionality. Controllers are based on-premises and are installed in a centralized location.
+
+Converged deployment
+For small campuses or branch offices, converged deployments offer consistency in wireless and wired connections. This deployment converges wired and wireless on one network device--an access switch--and performs the dual role of both switch and wireless controller.
+
+Cloud-based deployment
+This system uses the cloud to manage network devices deployed on-premises at different locations. The solution requires Cisco Meraki cloud-managed devices, which provide full visibility of the network through their dashboards.
